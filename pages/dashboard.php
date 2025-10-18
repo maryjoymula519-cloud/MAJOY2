@@ -8,7 +8,7 @@
             <div id="layoutSidenav_nav">
                 
             <?php include '../includes/sidebar.php'; ?>
-
+    
                             </div>
                             <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
                                 <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
@@ -52,10 +52,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="sb-sidenav-footer">
-                        <div class="small">Logged in as:</div>
-                        Start Bootstrap
-                    </div>
+                    
                 </nav>
             </div>
             <div id="layoutSidenav_content">
@@ -140,16 +137,7 @@
                                             <th>Salary</th>
                                         </tr>
                                     </thead>
-                                    <tfoot>
-                                        <tr>
-                                            <th>Name</th>
-                                            <th>Position</th>
-                                            <th>Office</th>
-                                            <th>Age</th>
-                                            <th>Start date</th>
-                                            <th>Salary</th>
-                                        </tr>
-                                    </tfoot>
+                                    
                                     <tbody>
                                         <tr>
                                             <td>Tiger Nixon</td>
